@@ -1,0 +1,30 @@
+_repo: Gardens-of-the-Caribbees-v.-2-2Sketches-of-a-Cruise-to-the-West-Indies-and-the-Spanish-Main_43771
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43771-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Starr, Ida May Hill
+    alias: Starr, Ida M. H.
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '42400'
+    url: http://www.gutenberg.org/2009/agents/42400
+description: ''
+gutenberg_issued: '2013-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43771'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- Description and travel'
+- !lcsh 'Spanish Main'
+- !lcc 'F1601'
+title: 'Gardens of the Caribbees, v. 2/2
+
+  Sketches of a Cruise to the West Indies and the Spanish Main'
+url: http://www.gutenberg.org/ebooks/43771
